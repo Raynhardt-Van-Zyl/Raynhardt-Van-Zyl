@@ -1,37 +1,40 @@
-# Hi 👋, I'm Raynhardt Van Zyl
+# Raynhardt Van Zyl
 
-**Embedded Firmware Engineer • Rust & C on Bare Metal • South Africa 🇿🇦**
+Embedded Firmware Engineer | Rust & C on Bare-Metal | Low-Power Systems | South Africa
 
-<img align="right" src="https://github.com/Raynhardt-Van-Zyl.png" width="230" />
+<img align="right" src="https://github.com/Raynhardt-Van-Zyl.png" width="240" style="border-radius:50%;"/>
 
-- 🔬 Currently obsessed with **Rust on weird/obscure MCUs** (CH57x, CH32V, RP2040, nRF52)
-- 🔋 Deep experience with **battery management ICs** (TI bq4050/bq34z100, fuel gauging, golden images)
-- ⚡ Building **USB-PD chargers**, low-power BLE devices, and experimental neuromorphic hardware
-- 🌱 Learning Embassy async, probe-rs, defmt, RTIC, and writing my own HALs/drivers
-- 👯 Open to collaborate on **embedded Rust drivers, BMS projects, or crazy RISC-V/QingKe adventures**
-- 💬 Ask me about TI fuel gauges, WCH CH57x BLE, CYPD USB-PD controllers, or getting Rust running on chips with no English docs
-- 📫 raynhardt.vanzyl@gmail.com
+- Specializing in Rust for embedded systems (Embassy async framework on RP2040, nRF52, CH32V, and WCH CH57x/QingKe RISC-V MCUs)
+- Extensive experience with battery management ICs (TI bq4050, bq34z100 – fuel-gauge configuration, learning cycles, golden images)
+- USB Power Delivery firmware and hardware design (Cypress CYPD, SW6201, FUSB302, custom triggers and multi-cell chargers)
+- Neuromorphic computing prototypes – event-driven spiking neural networks on microcontrollers
+- Low-power IoT product concepts (smart headlamps with mesh networking, gesture control, sensor fusion, extreme battery optimization)
+- Regularly develop HALs and drivers from Chinese-only datasheets; active contributor to the embedded Rust ecosystem
+- Open to collaboration on embedded Rust drivers, advanced BMS projects, USB-PD firmware, or novel low-power devices
 
-### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-(Replace the link above with your real LinkedIn if you have one)
+Contact: raynhardt.vanzyl@gmail.com
+
+### Connect
+[Personal Website](https://raynhardt.van-zyl.cc/) • [LinkedIn](https://www.linkedin.com/in/raynhardt-vincent-van-zyl/)
 
 ### Languages & Tools
-<img align="left" src="https://skillicons.dev/icons?i=rust,c,embedded,githubactions,git,docker,vscode,&perline=10" />
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,embedded,git,githubactions,docker,vscode,raspberrypi,arduino,platformio,linux" />
 
-<br><br><br>
+### GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raynhardt-Van-Zyl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raynhardt-Van-Zyl&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raynhardt-Van-Zyl&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</p>
 
-### 🔥 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Raynhardt-Van-Zyl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raynhardt-Van-Zyl&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Raynhardt-Van-Zyl&layout=compact&theme=tokyonight&hide_border=true)
+### Key Projects (pinned repositories appear at the top of this profile)
 
-### 🚀 Featured Projects (pinned ones will show automatically above)
+- ch57x-embassy – Embassy async executor port for WCH CH57x BLE RISC-V series
+- TI bq4050 / bq34z100 tools and configurators
+- USB-PD charger and trigger implementations
+- Spiking neural network prototypes on bare metal
+- Ultra-low-power IoT headlamp designs with mesh and gesture control
 
-- **ch57x-embassy** – Embassy async executor on WCH CH57x BLE RISC-V MCUs
-- **bq4050 / fuel-gauge tools** – Configs, learning cycles, and utilities for TI bq4050/bq34z100
-- **USB-PD explorations** – CYPD, SW6201, custom PD triggers and chargers
-- **Neuromorphic / SNN prototypes** – Event-driven spiking neural networks on microcontrollers
-- **Low-power IoT & headlamp projects** – Sensor fusion, mesh, extreme battery life
-
-Thanks for visiting! ⭐ Star anything useful — it really helps motivate me to keep open-sourcing this stuff.
+Thank you for visiting my profile.
