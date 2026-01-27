@@ -28,13 +28,3 @@ Contact: raynhardt.vanzyl@gmail.com
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raynhardt-Van-Zyl&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
-
-### Key Projects (pinned repositories appear at the top of this profile)
-
-- ch57x-embassy – Embassy async executor port for WCH CH57x BLE RISC-V series
-- TI bq4050 / bq34z100 tools and configurators
-- USB-PD charger and trigger implementations
-- Spiking neural network prototypes on bare metal
-- Ultra-low-power IoT headlamp designs with mesh and gesture control
-
-Thank you for visiting my profile.
